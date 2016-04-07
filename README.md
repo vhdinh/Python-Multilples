@@ -1,4 +1,4 @@
-# Python-Multilples
+# Python-Multiples
 
 1. Program that prints all odds from 1 to 1000
 
